@@ -16,5 +16,55 @@ namespace PlayThis
         {
             InitializeComponent();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void changeMoodTextBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void initTestButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void enterNameTextBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void enterGenreTextBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void catOneTextBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void catTwoTextBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void emotionOneTextBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void emotionTwoTextBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void emotionThreeTextBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
